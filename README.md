@@ -15,4 +15,6 @@ Chat usage data:
 
 **chat** table
 
-Data available in CSV files.
+Raw data available in CSV files that can be downloaded here:
+
+https://github.com/Codecademy-Curriculum/Codecademy-Learn-SQL-from-Scratch/tree/master/Twitch
